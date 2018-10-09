@@ -8,7 +8,7 @@ mkdir input
 mkdir output
 mkdir logs
 mkdir trash
-ls-l #Miro el contenido detallado de mi directorio 
+ls -l #Miro el contenido detallado de mi directorio 
 cp -r trash trash2 #Copy the trash directory to trash2
 mv trash trash1 #Cambio de nombre de la carpeta a trash1
 rm -rf trash2 #Borro el directorio trash2
